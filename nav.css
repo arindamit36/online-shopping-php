@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+#navigation2 {
+	background-color:#000;
+	font-size:125%;
+	font-weight: bold;
+	border-bottom:2px solid #00F;
+	border-top:2px solid #00F;
+	padding:10px 0;
+}
+
+#navigation2 a {
+	border-right:2px solid #FFF;
+	color:white;
+	padding:10px 20px;
+	text-decoration:none;
+}
+#navigation2 a:current{color:#7F0000}
+#navigation2 a:link{color:#FFF;}
+#navigation2 a:visited{color:#7FDF55;}
+#sidebar
+{
+	margin-left:635px;
+}
+#utilities
+{
+	background-color:black;
+	font-weight:bold;
+	color: #FFF;
+	padding: .5m 1m .5m 1.5m;
+}
+#utilities a: link{color:white;}
+#utilities a:visited{color:#7FDF55;}
