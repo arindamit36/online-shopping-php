@@ -1,0 +1,15 @@
+
+
+
+table td
+{
+	border:1px solid black;
+	vertical-align:middle;
+	border-style:dashed;
+	font-size: 18px;
+	font-weight:bold;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	outline-color:#500;
+	
+	
+}
